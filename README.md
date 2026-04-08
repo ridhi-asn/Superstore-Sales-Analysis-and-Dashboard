@@ -15,7 +15,7 @@ Built an interactive Tableau dashboard to visualize the findings.
 #### Key Findings:
 - Superstore had a total sales of $722,052 in the current year, a 20.3% improvement since the prior year.
 - While the technology category held the lowest % of orders, it resulted in the greatest % of sales, indicating higher average ticket size for this category.
-- While New York and Texas had roughly the same % of total orders, the % of total sales in New York far exceeded that of Texas, highlighting an important area for investment.
-- While binders and sales had the highest % of total orders amongst sub-categories, the highest % of total sales came from phones and chairs, which the Superstore may choose to emphasize in production or marketing campaigns in the future.
+- While New York and Texas had roughly the same % of total orders, the % of total sales in New York far exceeded that of Texas, suggesting New Yorkers purchase higher ticket sized items than Texans (e.g., technology products), potentially due to higher income levels.
+- While binders and paper had the highest % of total orders amongst sub-categories, the highest % of total sales came from phones and chairs. Binders and papers are low-ticket items of necessity ordered frequently, compared to the high-ticket items of phones and chairs ordered infrequently, used for long-periods of time.
 
 
